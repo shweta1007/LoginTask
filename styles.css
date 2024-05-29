@@ -1,0 +1,52 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?cs=srgb&dl=pexels-padrinan-255379.jpg&fm=jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+h1 {
+    font-weight: 600;
+    color: #333;
+    font-size: 30px;
+    margin-top: 25px;
+    padding: 5px;
+}
+
+.login-form {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+    backdrop-filter: brightness(0.5);
+}
+h2{
+    text-align: center;
+    color:white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    color: white;
+}
+
+.btn {
+    background-color: #c9149c;
+}
+
+.btn-light {
+    background-color: #ffffff;
+}
+p{
+    color: white;
+    text-align: center;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
